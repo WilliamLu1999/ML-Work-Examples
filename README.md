@@ -1,2 +1,2 @@
 # Python-ML-DS-
-This repository contains notes about Machine Learning and Data Science
+This repository contains notes and work examples of Machine Learning Algorithms and Data Science
